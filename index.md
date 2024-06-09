@@ -1,1 +1,4 @@
 # Hello
+
+## Image Example
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
